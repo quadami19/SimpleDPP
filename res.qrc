@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="rc.png">images/rc.png</file>
+        <file alias="cr.png">images/cr.png</file>
+        <file alias="dl.png">images/dl.png</file>
+        <file alias="trz.png">images/trz.png</file>
+        <file alias="cusp.png">images/cusp.png</file>
+        <file alias="gauss.png">images/gauss.png</file>
+        <file alias="ma.png">images/ma.png</file>
+        <file alias="ol.png">images/ol.png</file>
+    </qresource>
+</RCC>
